@@ -12,7 +12,7 @@
 ### If you want to view the todolist on your local machine use the following steps to install it. 
 Make sure you have environment setup properly. You will need PHP8.1, composer and Node.js.
 
-1. Download the project (or clone using GIT)
+1. Download the project.
 2. Copy `.env.example` into `.env` and configure database credentials
 3. Navigate to the project's root directory using terminal
 4. Run `composer install`
