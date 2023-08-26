@@ -1,5 +1,5 @@
-# DoWise
-# Laravel React  Full Stack ToDolist Application
+# DoWise😎
+# Laravel React  Full Stack Task Management System
 ```diff
 - A simple task management system
 
