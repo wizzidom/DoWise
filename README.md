@@ -4,5 +4,6 @@
 - A simple task management system
 
 ```
-##Authentication
-##Database
+## Authentication
+## Database
+## Simple and user friendly UI
